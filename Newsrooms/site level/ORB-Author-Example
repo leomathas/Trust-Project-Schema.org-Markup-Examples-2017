@@ -1,0 +1,96 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dan Morrison",
+    "url": "https://orbmedia.org/what-we-do#danmorrison”,
+    "image": "https://orbmedia.org/sites/default/files/styles/square/public/DM%20headshot%20007.png?itok=fLe0VfOX",
+    "description": "Former staff writer and correspondent at Newsday; former staff writer, Bloomberg News; have written about South Asia and Africa as a frequent contributor to National Geographic (online) and The New York Times (print and online). Other outlets include Slate, the Christian Science Monitor, San Francisco Chronicle, Politico Magazine, Artforum. Author of "The Black Nile" (VIking, 2010), named one of the Village Voice's ten best books of the year, with strong favorable reviews in the Wall Street Journal, The New York Times, Los Angeles Times, Washington Post, and the Daily Beast. Have been quoted in the New York Times as a subject matter expert on conflict over the Nile River, and in the Times of London as an expert on efforts to restore the Ganges River. Amateur historian of cholera and plague in India.",
+    "identifier": "",
+    "jobTitle": "Reporter",
+    "workLocation": {
+        "@type": "Place",
+        "name": “India / USA”
+    },
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Journalist",
+        "url": "https://orbmedia.org/what-we-do#danmorrison",
+        "email": "danm@orbmedia.org"
+    },
+    "affiliation": [
+        {
+            "@type": "NewsMediaOrganization",
+            "name": “Orb Media“,
+            "url": "https://orbmedia.org/",
+            "parentOrganization": {
+                "@type": "NewsMediaOrganization",
+                "name": “Orb Media”,
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://orbmedia.org/sites/all/themes/orbmedia/css/images/logo.png",
+                    "width": 270,
+                    "height": 94
+                }
+            }
+        }
+    ],
+    "award": [
+        “2017 - Reader’s Choice - Top Deutsche Welle Environmental Stories",
+        "2014 - Commentary Finalist, South Asian Journalists Association Awards (New York Times)",
+        "2013 - Commentary Finalist, South Asian Journalists Association Awards (Al Jazeera English)",
+        "2013 - Global Health Fellow, United Nations Foundation (India and Malawi)”,
+        “2013 - Grantee, Solutions Journalism Network (Bangladesh)",
+        "2012 - Global Issues Journalism Fellow, United Nations Foundation",
+        "1996-1999 - Awards from the Deadline Club, Society of Silurians, and New York Association of Black Journalists for investigations and breaking news reporting in Newsday"
+    ],
+    "knowsAbout": [
+        {
+            "@type": "Place",
+            "name": "India"
+        },
+        {
+            "@type": "Place",
+            "name": "Sudan"
+        },
+        {
+            "@type": "Place",
+            "name": "South Sudan"
+        },
+        {
+            "@type": "Place",
+            "name": "Nile River"
+        },
+        {
+            "@type": "Place",
+            "name": "Ganges River"
+        },
+        {
+            "@type": "Thing",
+            "name": "Environment",
+            "sameAs": "https://www.wikidata.org/wiki/Q2249676"
+        },
+        {
+            "@type": "Thing",
+            "name": "Law Enforcement",
+            "sameAs": "https://www.wikidata.org/wiki/Q44554"
+        },
+        {
+            "@type": "Thing",
+            "name": "Culture",
+            "sameAs": "https://www.wikidata.org/wiki/Q11042"
+        },
+        {
+            "@type": "Place",
+            "name": "New York"
+        }
+    ],
+    "knowsLanguage": [
+        {
+            "@type": "Language",
+            "name": “English”,
+            "sameAs": "https://www.wikidata.org/wiki/Q1860"
+        }
+    ]
+}
+</script>
